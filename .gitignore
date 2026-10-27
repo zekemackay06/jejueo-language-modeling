@@ -1,0 +1,4 @@
+testing
+data
+*.pdf
+**/__pycache__/
